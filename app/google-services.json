@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12345678",
+    "project_id": "foodstore-nandapril",
+    "storage_bucket": "foodstore-nandapril.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12345678:android:6ff18731ed38cc6e9585e7",
+        "android_client_info": {
+          "package_name": "com.napa.foodstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAWxkbYW79zD9K9M_H_hlORQMW5-v8Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

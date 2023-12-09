@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/app_color_primary">
+
+    <item
+        android:id="@+id/fragmentHome"
+        android:icon="@drawable/ic_home"
+        android:title="@string/text_nav_home" />
+
+    <item
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/ic_trolley"
+        android:title="@string/text_nav_cart" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/text_nav_profile" />
+
+</menu>
